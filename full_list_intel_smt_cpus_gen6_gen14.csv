@@ -1,0 +1,639 @@
+processor,segment,generation,codename,cores_total,p_cores,e_cores,threads,smt_scope,category
+Intel Core i7-6700K,Desktop,6th,Skylake-S,4,4,0,8,all cores,client/embedded
+Intel Core i7-6700,Desktop,6th,Skylake-S,4,4,0,8,all cores,client/embedded
+Intel Core i7-6700T,Desktop,6th,Skylake-S,4,4,0,8,all cores,client/embedded
+Intel Core i7-6700TE,Embedded,6th,Skylake-S,4,4,0,8,all cores,client/embedded
+Intel Core i7-6785R,Desktop,6th,Skylake-H,4,4,0,8,all cores,client/embedded
+Intel Core i3-6320,Desktop,6th,Skylake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-6300,Desktop,6th,Skylake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-6300T,Desktop,6th,Skylake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-6100,Desktop,6th,Skylake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-6100T,Desktop,6th,Skylake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-6098P,Desktop,6th,Skylake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-6100E,Embedded,6th,Skylake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-6100TE,Embedded,6th,Skylake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-6102E,Embedded,6th,Skylake-S,2,2,0,4,all cores,client/embedded
+Intel Core i7-6970HQ,Laptop,6th,Skylake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-6920HQ,Laptop,6th,Skylake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-6870HQ,Laptop,6th,Skylake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-6820HQ,Laptop,6th,Skylake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-6820HK,Laptop,6th,Skylake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-6820EQ,Embedded,6th,Skylake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-6822EQ,Embedded,6th,Skylake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-6770HQ,Laptop,6th,Skylake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-6700HQ,Laptop,6th,Skylake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-6660U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i7-6650U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i7-6600U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i7-6567U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i7-6560U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i7-6500U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i5-6360U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i5-6300U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i5-6287U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i5-6267U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i5-6260U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i5-6200U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i3-6167U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i3-6157U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i3-6100U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core i3-6100H,Laptop,6th,Skylake-H,2,2,0,4,all cores,client/embedded
+Intel Core i3-6006U,Laptop,6th,Skylake-U,2,2,0,4,all cores,client/embedded
+Intel Core m7-6Y75,Laptop,6th,Skylake-Y,2,2,0,4,all cores,client/embedded
+Intel Core m5-6Y57,Laptop,6th,Skylake-Y,2,2,0,4,all cores,client/embedded
+Intel Core m5-6Y54,Laptop,6th,Skylake-Y,2,2,0,4,all cores,client/embedded
+Intel Core m3-6Y30,Laptop,6th,Skylake-Y,2,2,0,4,all cores,client/embedded
+Intel Core i7-6950X,Desktop (HEDT),6th,Broadwell-E,10,10,0,20,all cores,client/embedded
+Intel Core i7-6900K,Desktop (HEDT),6th,Broadwell-E,8,8,0,16,all cores,client/embedded
+Intel Core i7-6850K,Desktop (HEDT),6th,Broadwell-E,6,6,0,12,all cores,client/embedded
+Intel Core i7-6800K,Desktop (HEDT),6th,Broadwell-E,6,6,0,12,all cores,client/embedded
+Intel Core i7-7700K,Desktop,7th,Kaby Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i7-7700,Desktop,7th,Kaby Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i7-7700T,Desktop,7th,Kaby Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-7350K,Desktop,7th,Kaby Lake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-7320,Desktop,7th,Kaby Lake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-7300,Desktop,7th,Kaby Lake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-7300T,Desktop,7th,Kaby Lake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-7100,Desktop,7th,Kaby Lake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-7100T,Desktop,7th,Kaby Lake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-7101E,Embedded,7th,Kaby Lake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-7101TE,Embedded,7th,Kaby Lake-S,2,2,0,4,all cores,client/embedded
+Intel Core i3-7102E,Embedded,7th,Kaby Lake-S,2,2,0,4,all cores,client/embedded
+Intel Core i7-7740X,Desktop (HEDT),7th,Kaby Lake-X,4,4,0,8,all cores,client/embedded
+Intel Core i9-7980XE,Desktop (HEDT),7th,Skylake-X,18,18,0,36,all cores,client/embedded
+Intel Core i9-7960X,Desktop (HEDT),7th,Skylake-X,16,16,0,32,all cores,client/embedded
+Intel Core i9-7940X,Desktop (HEDT),7th,Skylake-X,14,14,0,28,all cores,client/embedded
+Intel Core i9-7920X,Desktop (HEDT),7th,Skylake-X,12,12,0,24,all cores,client/embedded
+Intel Core i9-7900X,Desktop (HEDT),7th,Skylake-X,10,10,0,20,all cores,client/embedded
+Intel Core i7-7820X,Desktop (HEDT),7th,Skylake-X,8,8,0,16,all cores,client/embedded
+Intel Core i7-7800X,Desktop (HEDT),7th,Skylake-X,6,6,0,12,all cores,client/embedded
+Intel Core i7-7920HQ,Laptop,7th,Kaby Lake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-7820HQ,Laptop,7th,Kaby Lake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-7820HK,Laptop,7th,Kaby Lake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-7820EQ,Embedded,7th,Kaby Lake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-7700HQ,Laptop,7th,Kaby Lake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-7660U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i7-7600U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i7-7567U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i7-7560U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i7-7500U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i7-7Y75,Laptop,7th,Kaby Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core i5-7360U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i5-7300U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i5-7287U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i5-7267U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i5-7260U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i5-7200U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i5-7Y57,Laptop,7th,Kaby Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core i5-7Y54,Laptop,7th,Kaby Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core i3-7167U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i3-7130U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i3-7100U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i3-7100H,Laptop,7th,Kaby Lake-H,2,2,0,4,all cores,client/embedded
+Intel Core i3-7100E,Embedded,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i3-7020U,Laptop,7th,Kaby Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core m3-7Y32,Laptop,7th,Kaby Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core m3-7Y30,Laptop,7th,Kaby Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core i7-8086K,Desktop,8th,Coffee Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i7-8700K,Desktop,8th,Coffee Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i7-8700,Desktop,8th,Coffee Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i7-8700T,Desktop,8th,Coffee Lake-S,6,6,0,12,all cores,client/embedded
+Intel Pentium Gold G5600,Desktop,8th,Coffee Lake-S,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G5500,Desktop,8th,Coffee Lake-S,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G5500T,Desktop,8th,Coffee Lake-S,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G5400,Desktop,8th,Coffee Lake-S,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G5400T,Desktop,8th,Coffee Lake-S,2,2,0,4,all cores,client/embedded
+Intel Core i9-8950HK,Laptop,8th,Coffee Lake-H,6,6,0,12,all cores,client/embedded
+Intel Core i7-8850H,Laptop,8th,Coffee Lake-H,6,6,0,12,all cores,client/embedded
+Intel Core i7-8750H,Laptop,8th,Coffee Lake-H,6,6,0,12,all cores,client/embedded
+Intel Core i7-8700B,Laptop,8th,Coffee Lake-H,6,6,0,12,all cores,client/embedded
+Intel Core i5-8400H,Laptop,8th,Coffee Lake-H,4,4,0,8,all cores,client/embedded
+Intel Core i5-8300H,Laptop,8th,Coffee Lake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-8569U,Laptop,8th,Coffee Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i7-8559U,Laptop,8th,Coffee Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i7-8557U,Laptop,8th,Coffee Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i5-8279U,Laptop,8th,Coffee Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i5-8269U,Laptop,8th,Coffee Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i5-8259U,Laptop,8th,Coffee Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i5-8257U,Laptop,8th,Coffee Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i3-8109U,Laptop,8th,Coffee Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i7-8650U,Laptop,8th,Kaby Lake-R,4,4,0,8,all cores,client/embedded
+Intel Core i7-8550U,Laptop,8th,Kaby Lake-R,4,4,0,8,all cores,client/embedded
+Intel Core i5-8350U,Laptop,8th,Kaby Lake-R,4,4,0,8,all cores,client/embedded
+Intel Core i5-8250U,Laptop,8th,Kaby Lake-R,4,4,0,8,all cores,client/embedded
+Intel Core i3-8130U,Laptop,8th,Kaby Lake-R,2,2,0,4,all cores,client/embedded
+Intel Core i7-8665U,Laptop,8th,Whiskey Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i7-8565U,Laptop,8th,Whiskey Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i5-8365U,Laptop,8th,Whiskey Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i5-8265U,Laptop,8th,Whiskey Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i5-8260U,Laptop,8th,Whiskey Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i3-8145U,Laptop,8th,Whiskey Lake-U,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold 5405U,Laptop,8th,Whiskey Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i7-8500Y,Laptop,8th,Amber Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core i5-8310Y,Laptop,8th,Amber Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core i5-8210Y,Laptop,8th,Amber Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core i5-8200Y,Laptop,8th,Amber Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core m3-8100Y,Laptop,8th,Amber Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core i7-8809G,Laptop,8th,Kaby Lake-G,4,4,0,8,all cores,client/embedded
+Intel Core i7-8709G,Laptop,8th,Kaby Lake-G,4,4,0,8,all cores,client/embedded
+Intel Core i7-8706G,Laptop,8th,Kaby Lake-G,4,4,0,8,all cores,client/embedded
+Intel Core i7-8705G,Laptop,8th,Kaby Lake-G,4,4,0,8,all cores,client/embedded
+Intel Core i5-8305G,Laptop,8th,Kaby Lake-G,4,4,0,8,all cores,client/embedded
+Intel Core i3-8121U,Laptop,8th,Cannon Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i9-9900KS,Desktop,9th,Coffee Lake-R,8,8,0,16,all cores,client/embedded
+Intel Core i9-9900K,Desktop,9th,Coffee Lake-R,8,8,0,16,all cores,client/embedded
+Intel Core i9-9900KF,Desktop,9th,Coffee Lake-R,8,8,0,16,all cores,client/embedded
+Intel Core i9-9900,Desktop,9th,Coffee Lake-R,8,8,0,16,all cores,client/embedded
+Intel Core i9-9900T,Desktop,9th,Coffee Lake-R,8,8,0,16,all cores,client/embedded
+Intel Pentium Gold G5620,Desktop,9th,Coffee Lake-R,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G5600T,Desktop,9th,Coffee Lake-R,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G5420,Desktop,9th,Coffee Lake-R,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G5420T,Desktop,9th,Coffee Lake-R,2,2,0,4,all cores,client/embedded
+Intel Core i9-9990XE,Desktop (HEDT),9th,Cascade Lake-X,14,14,0,28,all cores,client/embedded
+Intel Core i9-9980XE,Desktop (HEDT),9th,Cascade Lake-X,18,18,0,36,all cores,client/embedded
+Intel Core i9-9960X,Desktop (HEDT),9th,Cascade Lake-X,16,16,0,32,all cores,client/embedded
+Intel Core i9-9940X,Desktop (HEDT),9th,Cascade Lake-X,14,14,0,28,all cores,client/embedded
+Intel Core i9-9920X,Desktop (HEDT),9th,Cascade Lake-X,12,12,0,24,all cores,client/embedded
+Intel Core i9-9900X,Desktop (HEDT),9th,Cascade Lake-X,10,10,0,20,all cores,client/embedded
+Intel Core i9-9820X,Desktop (HEDT),9th,Skylake-X,10,10,0,20,all cores,client/embedded
+Intel Core i7-9800X,Desktop (HEDT),9th,Cascade Lake-X,8,8,0,16,all cores,client/embedded
+Intel Core i9-9980HK,Laptop,9th,Coffee Lake-HR,8,8,0,16,all cores,client/embedded
+Intel Core i9-9880H,Laptop,9th,Coffee Lake-HR,8,8,0,16,all cores,client/embedded
+Intel Core i7-9850H,Laptop,9th,Coffee Lake-HR,6,6,0,12,all cores,client/embedded
+Intel Core i7-9750H,Laptop,9th,Coffee Lake-HR,6,6,0,12,all cores,client/embedded
+Intel Core i7-9750HF,Laptop,9th,Coffee Lake-HR,6,6,0,12,all cores,client/embedded
+Intel Core i7-9850HE,Embedded,9th,Coffee Lake-HR,6,6,0,12,all cores,client/embedded
+Intel Core i7-9850HL,Embedded,9th,Coffee Lake-HR,6,6,0,12,all cores,client/embedded
+Intel Core i5-9400H,Laptop,9th,Coffee Lake-HR,4,4,0,8,all cores,client/embedded
+Intel Core i5-9300H,Laptop,9th,Coffee Lake-HR,4,4,0,8,all cores,client/embedded
+Intel Core i5-9300HF,Laptop,9th,Coffee Lake-HR,4,4,0,8,all cores,client/embedded
+Intel Core i9-10900K,Desktop,10th,Comet Lake-S,10,10,0,20,all cores,client/embedded
+Intel Core i9-10900KF,Desktop,10th,Comet Lake-S,10,10,0,20,all cores,client/embedded
+Intel Core i9-10910,Desktop,10th,Comet Lake-S,10,10,0,20,all cores,client/embedded
+Intel Core i9-10900,Desktop,10th,Comet Lake-S,10,10,0,20,all cores,client/embedded
+Intel Core i9-10900F,Desktop,10th,Comet Lake-S,10,10,0,20,all cores,client/embedded
+Intel Core i9-10900T,Desktop,10th,Comet Lake-S,10,10,0,20,all cores,client/embedded
+Intel Core i9-10850K,Desktop,10th,Comet Lake-S,10,10,0,20,all cores,client/embedded
+Intel Core i9-10900E,Embedded,10th,Comet Lake-S,10,10,0,20,all cores,client/embedded
+Intel Core i9-10900TE,Embedded,10th,Comet Lake-S,10,10,0,20,all cores,client/embedded
+Intel Core i7-10700K,Desktop,10th,Comet Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i7-10700KF,Desktop,10th,Comet Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i7-10700,Desktop,10th,Comet Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i7-10700F,Desktop,10th,Comet Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i7-10700T,Desktop,10th,Comet Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i7-10700E,Embedded,10th,Comet Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i7-10700TE,Embedded,10th,Comet Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i5-10600K,Desktop,10th,Comet Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-10600KF,Desktop,10th,Comet Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-10600,Desktop,10th,Comet Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-10600T,Desktop,10th,Comet Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-10505,Desktop,10th,Comet Lake-S Refresh,6,6,0,12,all cores,client/embedded
+Intel Core i5-10500,Desktop,10th,Comet Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-10500T,Desktop,10th,Comet Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-10500E,Embedded,10th,Comet Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-10500TE,Embedded,10th,Comet Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-10400,Desktop,10th,Comet Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-10400F,Desktop,10th,Comet Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-10400T,Desktop,10th,Comet Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i3-10325,Desktop,10th,Comet Lake-S Refresh,4,4,0,8,all cores,client/embedded
+Intel Core i3-10320,Desktop,10th,Comet Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-10305,Desktop,10th,Comet Lake-S Refresh,4,4,0,8,all cores,client/embedded
+Intel Core i3-10305T,Desktop,10th,Comet Lake-S Refresh,4,4,0,8,all cores,client/embedded
+Intel Core i3-10300,Desktop,10th,Comet Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-10300T,Desktop,10th,Comet Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-10105,Desktop,10th,Comet Lake-S Refresh,4,4,0,8,all cores,client/embedded
+Intel Core i3-10105F,Desktop,10th,Comet Lake-S Refresh,4,4,0,8,all cores,client/embedded
+Intel Core i3-10105T,Desktop,10th,Comet Lake-S Refresh,4,4,0,8,all cores,client/embedded
+Intel Core i3-10100,Desktop,10th,Comet Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-10100F,Desktop,10th,Comet Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-10100T,Desktop,10th,Comet Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-10100E,Embedded,10th,Comet Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-10100TE,Embedded,10th,Comet Lake-S,4,4,0,8,all cores,client/embedded
+Intel Pentium Gold G6605,Desktop,10th,Comet Lake-S Refresh,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G6600,Desktop,10th,Comet Lake-S,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G6505,Desktop,10th,Comet Lake-S Refresh,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G6505T,Desktop,10th,Comet Lake-S Refresh,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G6500,Desktop,10th,Comet Lake-S,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G6500T,Desktop,10th,Comet Lake-S,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G6405,Desktop,10th,Comet Lake-S Refresh,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G6405T,Desktop,10th,Comet Lake-S Refresh,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G6400,Desktop,10th,Comet Lake-S,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G6400T,Desktop,10th,Comet Lake-S,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G6400E,Embedded,10th,Comet Lake-S,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G6400TE,Embedded,10th,Comet Lake-S,2,2,0,4,all cores,client/embedded
+Intel Core i9-10980HK,Laptop,10th,Comet Lake-H,8,8,0,16,all cores,client/embedded
+Intel Core i9-10885H,Laptop,10th,Comet Lake-H,8,8,0,16,all cores,client/embedded
+Intel Core i7-10875H,Laptop,10th,Comet Lake-H,8,8,0,16,all cores,client/embedded
+Intel Core i7-10870H,Laptop,10th,Comet Lake-H,8,8,0,16,all cores,client/embedded
+Intel Core i7-10850H,Laptop,10th,Comet Lake-H,6,6,0,12,all cores,client/embedded
+Intel Core i7-10750H,Laptop,10th,Comet Lake-H,6,6,0,12,all cores,client/embedded
+Intel Core i5-10500H,Laptop,10th,Comet Lake-H,6,6,0,12,all cores,client/embedded
+Intel Core i5-10400H,Laptop,10th,Comet Lake-H,4,4,0,8,all cores,client/embedded
+Intel Core i5-10300H,Laptop,10th,Comet Lake-H,4,4,0,8,all cores,client/embedded
+Intel Core i5-10200H,Laptop,10th,Comet Lake-H,4,4,0,8,all cores,client/embedded
+Intel Core i7-10810U,Laptop,10th,Comet Lake-U,6,6,0,12,all cores,client/embedded
+Intel Core i7-10710U,Laptop,10th,Comet Lake-U,6,6,0,12,all cores,client/embedded
+Intel Core i7-10610U,Laptop,10th,Comet Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i7-10510U,Laptop,10th,Comet Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i5-10310U,Laptop,10th,Comet Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i5-10210U,Laptop,10th,Comet Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i3-10110U,Laptop,10th,Comet Lake-U,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold 6405U,Laptop,10th,Comet Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i7-10510Y,Laptop,10th,Amber Lake-Y,4,4,0,8,all cores,client/embedded
+Intel Core i5-10310Y,Laptop,10th,Amber Lake-Y,4,4,0,8,all cores,client/embedded
+Intel Core i5-10210Y,Laptop,10th,Amber Lake-Y,4,4,0,8,all cores,client/embedded
+Intel Core i3-10110Y,Laptop,10th,Amber Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core i3-10100Y,Laptop,10th,Amber Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core i7-1068NG7,Laptop,10th,Ice Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i7-1065G7,Laptop,10th,Ice Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i7-1060NG7,Laptop,10th,Ice Lake-Y,4,4,0,8,all cores,client/embedded
+Intel Core i7-1060G7,Laptop,10th,Ice Lake-Y,4,4,0,8,all cores,client/embedded
+Intel Core i5-1038NG7,Laptop,10th,Ice Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i5-1035G7,Laptop,10th,Ice Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i5-1035G4,Laptop,10th,Ice Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i5-1035G1,Laptop,10th,Ice Lake-U,4,4,0,8,all cores,client/embedded
+Intel Core i5-1030NG7,Laptop,10th,Ice Lake-Y,4,4,0,8,all cores,client/embedded
+Intel Core i5-1030G7,Laptop,10th,Ice Lake-Y,4,4,0,8,all cores,client/embedded
+Intel Core i5-1030G4,Laptop,10th,Ice Lake-Y,4,4,0,8,all cores,client/embedded
+Intel Core i3-1005G1,Laptop,10th,Ice Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i3-1000NG4,Laptop,10th,Ice Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core i3-1000G4,Laptop,10th,Ice Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Core i3-1000G1,Laptop,10th,Ice Lake-Y,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold 6805,Laptop,10th,Ice Lake-U,2,2,0,4,all cores,client/embedded
+Intel Core i9-10980XE,Desktop (HEDT),10th,Cascade Lake-X,18,18,0,36,all cores,client/embedded
+Intel Core i9-10940X,Desktop (HEDT),10th,Cascade Lake-X,14,14,0,28,all cores,client/embedded
+Intel Core i9-10920X,Desktop (HEDT),10th,Cascade Lake-X,12,12,0,24,all cores,client/embedded
+Intel Core i9-10900X,Desktop (HEDT),10th,Cascade Lake-X,10,10,0,20,all cores,client/embedded
+Intel Core i9-11900K,Desktop,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i9-11900KF,Desktop,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i9-11900,Desktop,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i9-11900F,Desktop,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i9-11900T,Desktop,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i9-11900E,Embedded,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i9-11900TE,Embedded,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i7-11700K,Desktop,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i7-11700KF,Desktop,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i7-11700,Desktop,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i7-11700F,Desktop,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i7-11700T,Desktop,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i7-11700E,Embedded,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i7-11700TE,Embedded,11th,Rocket Lake-S,8,8,0,16,all cores,client/embedded
+Intel Core i5-11600K,Desktop,11th,Rocket Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-11600KF,Desktop,11th,Rocket Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-11600,Desktop,11th,Rocket Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-11600T,Desktop,11th,Rocket Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-11500,Desktop,11th,Rocket Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-11500T,Desktop,11th,Rocket Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-11500E,Embedded,11th,Rocket Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-11500TE,Embedded,11th,Rocket Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-11400,Desktop,11th,Rocket Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-11400F,Desktop,11th,Rocket Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-11400T,Desktop,11th,Rocket Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i3-11100E,Embedded,11th,Rocket Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-11100TE,Embedded,11th,Rocket Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i9-11900KB,Desktop,11th,Tiger Lake-B,8,8,0,16,all cores,client/embedded
+Intel Core i7-11700B,Desktop,11th,Tiger Lake-B,8,8,0,16,all cores,client/embedded
+Intel Core i5-11500B,Desktop,11th,Tiger Lake-B,6,6,0,12,all cores,client/embedded
+Intel Core i3-11100B,Desktop,11th,Tiger Lake-B,4,4,0,8,all cores,client/embedded
+Intel Core i9-11980HK,Laptop,11th,Tiger Lake-H45,8,8,0,16,all cores,client/embedded
+Intel Core i9-11950H,Laptop,11th,Tiger Lake-H45,8,8,0,16,all cores,client/embedded
+Intel Core i9-11900H,Laptop,11th,Tiger Lake-H45,8,8,0,16,all cores,client/embedded
+Intel Core i7-11850H,Laptop,11th,Tiger Lake-H45,8,8,0,16,all cores,client/embedded
+Intel Core i7-11850HE,Embedded,11th,Tiger Lake-H45,8,8,0,16,all cores,client/embedded
+Intel Core i7-11800H,Laptop,11th,Tiger Lake-H45,8,8,0,16,all cores,client/embedded
+Intel Core i7-11600H,Laptop,11th,Tiger Lake-H45,6,6,0,12,all cores,client/embedded
+Intel Core i5-11500H,Laptop,11th,Tiger Lake-H45,6,6,0,12,all cores,client/embedded
+Intel Core i5-11500HE,Embedded,11th,Tiger Lake-H45,6,6,0,12,all cores,client/embedded
+Intel Core i5-11400H,Laptop,11th,Tiger Lake-H45,6,6,0,12,all cores,client/embedded
+Intel Core i5-11260H,Laptop,11th,Tiger Lake-H45,6,6,0,12,all cores,client/embedded
+Intel Core i3-11100HE,Embedded,11th,Tiger Lake-H45,4,4,0,8,all cores,client/embedded
+Intel Core i7-11390H,Laptop,11th,Tiger Lake-H35,4,4,0,8,all cores,client/embedded
+Intel Core i7-11375H,Laptop,11th,Tiger Lake-H35,4,4,0,8,all cores,client/embedded
+Intel Core i7-11370H,Laptop,11th,Tiger Lake-H35,4,4,0,8,all cores,client/embedded
+Intel Core i5-11320H,Laptop,11th,Tiger Lake-H35,4,4,0,8,all cores,client/embedded
+Intel Core i5-11300H,Laptop,11th,Tiger Lake-H35,4,4,0,8,all cores,client/embedded
+Intel Core i7-1195G7,Laptop,11th,Tiger Lake-UP3,4,4,0,8,all cores,client/embedded
+Intel Core i7-1185G7,Laptop,11th,Tiger Lake-UP3,4,4,0,8,all cores,client/embedded
+Intel Core i7-1185G7E,Embedded,11th,Tiger Lake-UP3,4,4,0,8,all cores,client/embedded
+Intel Core i7-1185GRE,Embedded,11th,Tiger Lake-UP3,4,4,0,8,all cores,client/embedded
+Intel Core i7-1165G7,Laptop,11th,Tiger Lake-UP3,4,4,0,8,all cores,client/embedded
+Intel Core i5-1155G7,Laptop,11th,Tiger Lake-UP3,4,4,0,8,all cores,client/embedded
+Intel Core i5-1145G7,Laptop,11th,Tiger Lake-UP3,4,4,0,8,all cores,client/embedded
+Intel Core i5-1145G7E,Embedded,11th,Tiger Lake-UP3,4,4,0,8,all cores,client/embedded
+Intel Core i5-1145GRE,Embedded,11th,Tiger Lake-UP3,4,4,0,8,all cores,client/embedded
+Intel Core i5-1135G7,Laptop,11th,Tiger Lake-UP3,4,4,0,8,all cores,client/embedded
+Intel Core i3-1125G4,Laptop,11th,Tiger Lake-UP3,4,4,0,8,all cores,client/embedded
+Intel Core i3-1115G4,Laptop,11th,Tiger Lake-UP3,2,2,0,4,all cores,client/embedded
+Intel Core i3-1115G4E,Embedded,11th,Tiger Lake-UP3,2,2,0,4,all cores,client/embedded
+Intel Core i3-1115GRE,Embedded,11th,Tiger Lake-UP3,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold 7505,Laptop,11th,Tiger Lake-UP3,2,2,0,4,all cores,client/embedded
+Intel Core i7-1180G7,Laptop,11th,Tiger Lake-UP4,4,4,0,8,all cores,client/embedded
+Intel Core i7-1160G7,Laptop,11th,Tiger Lake-UP4,4,4,0,8,all cores,client/embedded
+Intel Core i5-1140G7,Laptop,11th,Tiger Lake-UP4,4,4,0,8,all cores,client/embedded
+Intel Core i5-1130G7,Laptop,11th,Tiger Lake-UP4,4,4,0,8,all cores,client/embedded
+Intel Core i3-1120G4,Laptop,11th,Tiger Lake-UP4,4,4,0,8,all cores,client/embedded
+Intel Core i3-1110G4,Laptop,11th,Tiger Lake-UP4,2,2,0,4,all cores,client/embedded
+Intel Core i9-12900KS,Desktop,12th,Alder Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i9-12900K,Desktop,12th,Alder Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i9-12900KF,Desktop,12th,Alder Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i9-12900,Desktop,12th,Alder Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i9-12900F,Desktop,12th,Alder Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i9-12900T,Desktop,12th,Alder Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i9-12900E,Embedded,12th,Alder Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i9-12900TE,Embedded,12th,Alder Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i7-12700K,Desktop,12th,Alder Lake-S,12,8,4,20,P-cores only,client/embedded
+Intel Core i7-12700KF,Desktop,12th,Alder Lake-S,12,8,4,20,P-cores only,client/embedded
+Intel Core i7-12700,Desktop,12th,Alder Lake-S,12,8,4,20,P-cores only,client/embedded
+Intel Core i7-12700F,Desktop,12th,Alder Lake-S,12,8,4,20,P-cores only,client/embedded
+Intel Core i7-12700T,Desktop,12th,Alder Lake-S,12,8,4,20,P-cores only,client/embedded
+Intel Core i7-12700E,Embedded,12th,Alder Lake-S,12,8,4,20,P-cores only,client/embedded
+Intel Core i7-12700TE,Embedded,12th,Alder Lake-S,12,8,4,20,P-cores only,client/embedded
+Intel Core i5-12600K,Desktop,12th,Alder Lake-S,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-12600KF,Desktop,12th,Alder Lake-S,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-12600,Desktop,12th,Alder Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-12600T,Desktop,12th,Alder Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-12500,Desktop,12th,Alder Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-12500T,Desktop,12th,Alder Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-12500E,Embedded,12th,Alder Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-12500TE,Embedded,12th,Alder Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-12490F,Desktop,12th,Alder Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-12400,Desktop,12th,Alder Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-12400F,Desktop,12th,Alder Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i5-12400T,Desktop,12th,Alder Lake-S,6,6,0,12,all cores,client/embedded
+Intel Core i3-12300,Desktop,12th,Alder Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-12300T,Desktop,12th,Alder Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-12100,Desktop,12th,Alder Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-12100F,Desktop,12th,Alder Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-12100T,Desktop,12th,Alder Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-12100E,Embedded,12th,Alder Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-12100TE,Embedded,12th,Alder Lake-S,4,4,0,8,all cores,client/embedded
+Intel Pentium Gold G7400,Desktop,12th,Alder Lake-S,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G7400T,Desktop,12th,Alder Lake-S,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G7400E,Embedded,12th,Alder Lake-S,2,2,0,4,all cores,client/embedded
+Intel Pentium Gold G7400TE,Embedded,12th,Alder Lake-S,2,2,0,4,all cores,client/embedded
+Intel Core i9-12950HX,Laptop,12th,Alder Lake-HX,16,8,8,24,P-cores only,client/embedded
+Intel Core i9-12900HX,Laptop,12th,Alder Lake-HX,16,8,8,24,P-cores only,client/embedded
+Intel Core i7-12850HX,Laptop,12th,Alder Lake-HX,16,8,8,24,P-cores only,client/embedded
+Intel Core i7-12800HX,Laptop,12th,Alder Lake-HX,16,8,8,24,P-cores only,client/embedded
+Intel Core i7-12650HX,Laptop,12th,Alder Lake-HX,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-12600HX,Laptop,12th,Alder Lake-HX,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-12500HX,Laptop,12th,Alder Lake-HX,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-12450HX,Laptop,12th,Alder Lake-HX,8,4,4,12,P-cores only,client/embedded
+Intel Core i9-12900HK,Laptop,12th,Alder Lake-H,14,6,8,20,P-cores only,client/embedded
+Intel Core i9-12900H,Laptop,12th,Alder Lake-H,14,6,8,20,P-cores only,client/embedded
+Intel Core i7-12800H,Laptop,12th,Alder Lake-H,14,6,8,20,P-cores only,client/embedded
+Intel Core i7-12800HL,Embedded,12th,Alder Lake-PS,14,6,8,20,P-cores only,client/embedded
+Intel Core i7-12700H,Laptop,12th,Alder Lake-H,14,6,8,20,P-cores only,client/embedded
+Intel Core i7-12700HL,Embedded,12th,Alder Lake-PS,14,6,8,20,P-cores only,client/embedded
+Intel Core i7-12650H,Laptop,12th,Alder Lake-H,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-12600H,Laptop,12th,Alder Lake-H,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-12600HL,Embedded,12th,Alder Lake-PS,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-12500H,Laptop,12th,Alder Lake-H,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-12500HL,Embedded,12th,Alder Lake-PS,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-12450H,Laptop,12th,Alder Lake-H,8,4,4,12,P-cores only,client/embedded
+Intel Core i3-12300HL,Embedded,12th,Alder Lake-PS,8,4,4,12,P-cores only,client/embedded
+Intel Core i7-1280P,Laptop,12th,Alder Lake-P,14,6,8,20,P-cores only,client/embedded
+Intel Core i7-1270P,Laptop,12th,Alder Lake-P,12,4,8,16,P-cores only,client/embedded
+Intel Core i7-1270PE,Embedded,12th,Alder Lake-P,12,4,8,16,P-cores only,client/embedded
+Intel Core i7-1260P,Laptop,12th,Alder Lake-P,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-1250P,Laptop,12th,Alder Lake-P,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-1250PE,Embedded,12th,Alder Lake-P,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-1240P,Laptop,12th,Alder Lake-P,12,4,8,16,P-cores only,client/embedded
+Intel Core i3-1220P,Laptop,12th,Alder Lake-P,10,2,8,12,P-cores only,client/embedded
+Intel Core i3-1220PE,Embedded,12th,Alder Lake-P,10,2,8,12,P-cores only,client/embedded
+Intel Core i7-1265U,Laptop,12th,Alder Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i7-1265UL,Embedded,12th,Alder Lake-PS,10,2,8,12,P-cores only,client/embedded
+Intel Core i7-1260U,Laptop,12th,Alder Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i7-1255U,Laptop,12th,Alder Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i7-1255UL,Embedded,12th,Alder Lake-PS,10,2,8,12,P-cores only,client/embedded
+Intel Core i7-1250U,Laptop,12th,Alder Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i5-1245U,Laptop,12th,Alder Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i5-1245UL,Embedded,12th,Alder Lake-PS,10,2,8,12,P-cores only,client/embedded
+Intel Core i5-1240U,Laptop,12th,Alder Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i5-1235U,Laptop,12th,Alder Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i5-1235UL,Embedded,12th,Alder Lake-PS,10,2,8,12,P-cores only,client/embedded
+Intel Core i5-1230U,Laptop,12th,Alder Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i3-1215U,Laptop,12th,Alder Lake-U,6,2,4,8,P-cores only,client/embedded
+Intel Core i3-1215UL,Embedded,12th,Alder Lake-PS,6,2,4,8,P-cores only,client/embedded
+Intel Core i3-1215UE,Embedded,12th,Alder Lake-U,6,2,4,8,P-cores only,client/embedded
+Intel Core i3-1210U,Laptop,12th,Alder Lake-U,6,2,4,8,P-cores only,client/embedded
+Intel Pentium 8505,Laptop,12th,Alder Lake-U,5,1,4,6,P-cores only,client/embedded
+Intel Pentium 8500,Laptop,12th,Alder Lake-U,5,1,4,6,P-cores only,client/embedded
+Intel Core i9-13900KS,Desktop,13th,Raptor Lake-S,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-13900K,Desktop,13th,Raptor Lake-S,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-13900KF,Desktop,13th,Raptor Lake-S,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-13900,Desktop,13th,Raptor Lake-S,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-13900F,Desktop,13th,Raptor Lake-S,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-13900T,Desktop,13th,Raptor Lake-S,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-13900E,Embedded,13th,Raptor Lake-S,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-13900TE,Embedded,13th,Raptor Lake-S,24,8,16,32,P-cores only,client/embedded
+Intel Core i7-13790F,Desktop,13th,Raptor Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i7-13700K,Desktop,13th,Raptor Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i7-13700KF,Desktop,13th,Raptor Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i7-13700,Desktop,13th,Raptor Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i7-13700F,Desktop,13th,Raptor Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i7-13700T,Desktop,13th,Raptor Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i7-13700E,Embedded,13th,Raptor Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i7-13700TE,Embedded,13th,Raptor Lake-S,16,8,8,24,P-cores only,client/embedded
+Intel Core i5-13600K,Desktop,13th,Raptor Lake-S,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-13600KF,Desktop,13th,Raptor Lake-S,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-13600,Desktop,13th,Raptor Lake-S,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-13600T,Desktop,13th,Raptor Lake-S,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-13500,Desktop,13th,Raptor Lake-S,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-13500T,Desktop,13th,Raptor Lake-S,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-13500E,Embedded,13th,Raptor Lake-S,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-13500TE,Embedded,13th,Raptor Lake-S,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-13490F,Desktop,13th,Raptor Lake-S,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-13400,Desktop,13th,Raptor Lake-S,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-13400F,Desktop,13th,Raptor Lake-S,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-13400T,Desktop,13th,Raptor Lake-S,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-13400E,Embedded,13th,Raptor Lake-S,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-13400TE,Embedded,13th,Raptor Lake-S,10,6,4,16,P-cores only,client/embedded
+Intel Core i3-13100,Desktop,13th,Raptor Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-13100F,Desktop,13th,Raptor Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-13100T,Desktop,13th,Raptor Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-13100E,Embedded,13th,Raptor Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i3-13100TE,Embedded,13th,Raptor Lake-S,4,4,0,8,all cores,client/embedded
+Intel Core i9-13980HX,Laptop,13th,Raptor Lake-HX,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-13950HX,Laptop,13th,Raptor Lake-HX,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-13900HX,Laptop,13th,Raptor Lake-HX,24,8,16,32,P-cores only,client/embedded
+Intel Core i7-13850HX,Laptop,13th,Raptor Lake-HX,20,8,12,28,P-cores only,client/embedded
+Intel Core i7-13700HX,Laptop,13th,Raptor Lake-HX,16,8,8,24,P-cores only,client/embedded
+Intel Core i7-13650HX,Laptop,13th,Raptor Lake-HX,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-13600HX,Laptop,13th,Raptor Lake-HX,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-13500HX,Laptop,13th,Raptor Lake-HX,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-13450HX,Laptop,13th,Raptor Lake-HX,10,6,4,16,P-cores only,client/embedded
+Intel Core i9-13900HK,Laptop,13th,Raptor Lake-H,14,6,8,20,P-cores only,client/embedded
+Intel Core i9-13900H,Laptop,13th,Raptor Lake-H,14,6,8,20,P-cores only,client/embedded
+Intel Core i9-13905H,Laptop,13th,Raptor Lake-H,14,6,8,20,P-cores only,client/embedded
+Intel Core i7-13800H,Laptop,13th,Raptor Lake-H,14,6,8,20,P-cores only,client/embedded
+Intel Core i7-13705H,Laptop,13th,Raptor Lake-H,14,6,8,20,P-cores only,client/embedded
+Intel Core i7-13700H,Laptop,13th,Raptor Lake-H,14,6,8,20,P-cores only,client/embedded
+Intel Core i7-13620H,Laptop,13th,Raptor Lake-H,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-13600H,Laptop,13th,Raptor Lake-H,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-13505H,Laptop,13th,Raptor Lake-H,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-13500H,Laptop,13th,Raptor Lake-H,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-13420H,Laptop,13th,Raptor Lake-H,8,4,4,12,P-cores only,client/embedded
+Intel Core i7-1370P,Laptop,13th,Raptor Lake-P,14,6,8,20,P-cores only,client/embedded
+Intel Core i7-1370PE,Embedded,13th,Raptor Lake-P,14,6,8,20,P-cores only,client/embedded
+Intel Core i7-1360P,Laptop,13th,Raptor Lake-P,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-1350P,Laptop,13th,Raptor Lake-P,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-1350PE,Embedded,13th,Raptor Lake-P,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-1340P,Laptop,13th,Raptor Lake-P,12,4,8,16,P-cores only,client/embedded
+Intel Core i5-1340PE,Embedded,13th,Raptor Lake-P,12,4,8,16,P-cores only,client/embedded
+Intel Core i3-1320PE,Embedded,13th,Raptor Lake-P,8,4,4,12,P-cores only,client/embedded
+Intel Core i7-1365U,Laptop,13th,Raptor Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i7-1365UE,Embedded,13th,Raptor Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i7-1365URE,Embedded,13th,Raptor Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i7-1355U,Laptop,13th,Raptor Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i5-1345U,Laptop,13th,Raptor Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i5-1345UE,Embedded,13th,Raptor Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i5-1345URE,Embedded,13th,Raptor Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i5-1335U,Laptop,13th,Raptor Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i5-1335UE,Embedded,13th,Raptor Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i5-1334U,Laptop,13th,Raptor Lake-U,10,2,8,12,P-cores only,client/embedded
+Intel Core i3-1315U,Laptop,13th,Raptor Lake-U,6,2,4,8,P-cores only,client/embedded
+Intel Core i3-1315UE,Embedded,13th,Raptor Lake-U,6,2,4,8,P-cores only,client/embedded
+Intel Core i3-1305U,Laptop,13th,Raptor Lake-U,5,1,4,6,P-cores only,client/embedded
+Intel Processor U300,Laptop,13th,Raptor Lake-U,5,1,4,6,P-cores only,client/embedded
+Intel Processor U300E,Embedded,13th,Raptor Lake-U,5,1,4,6,P-cores only,client/embedded
+Intel Core i9-14900KS,Desktop,14th,Raptor Lake-S Refresh,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-14900K,Desktop,14th,Raptor Lake-S Refresh,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-14900KF,Desktop,14th,Raptor Lake-S Refresh,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-14900,Desktop,14th,Raptor Lake-S Refresh,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-14900F,Desktop,14th,Raptor Lake-S Refresh,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-14900T,Desktop,14th,Raptor Lake-S Refresh,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-14900E,Embedded,14th,Raptor Lake-S Refresh,24,8,16,32,P-cores only,client/embedded
+Intel Core i9-14900TE,Embedded,14th,Raptor Lake-S Refresh,24,8,16,32,P-cores only,client/embedded
+Intel Core i7-14790F,Desktop,14th,Raptor Lake-S Refresh,16,8,8,24,P-cores only,client/embedded
+Intel Core i7-14700K,Desktop,14th,Raptor Lake-S Refresh,20,8,12,28,P-cores only,client/embedded
+Intel Core i7-14700KF,Desktop,14th,Raptor Lake-S Refresh,20,8,12,28,P-cores only,client/embedded
+Intel Core i7-14700,Desktop,14th,Raptor Lake-S Refresh,20,8,12,28,P-cores only,client/embedded
+Intel Core i7-14700F,Desktop,14th,Raptor Lake-S Refresh,20,8,12,28,P-cores only,client/embedded
+Intel Core i7-14700T,Desktop,14th,Raptor Lake-S Refresh,20,8,12,28,P-cores only,client/embedded
+Intel Core i7-14700E,Embedded,14th,Raptor Lake-S Refresh,20,8,12,28,P-cores only,client/embedded
+Intel Core i7-14700TE,Embedded,14th,Raptor Lake-S Refresh,20,8,12,28,P-cores only,client/embedded
+Intel Core i5-14600K,Desktop,14th,Raptor Lake-S Refresh,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-14600KF,Desktop,14th,Raptor Lake-S Refresh,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-14600,Desktop,14th,Raptor Lake-S Refresh,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-14600T,Desktop,14th,Raptor Lake-S Refresh,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-14500,Desktop,14th,Raptor Lake-S Refresh,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-14500T,Desktop,14th,Raptor Lake-S Refresh,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-14500E,Embedded,14th,Raptor Lake-S Refresh,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-14500TE,Embedded,14th,Raptor Lake-S Refresh,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-14490F,Desktop,14th,Raptor Lake-S Refresh,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-14400,Desktop,14th,Raptor Lake-S Refresh,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-14400F,Desktop,14th,Raptor Lake-S Refresh,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-14400T,Desktop,14th,Raptor Lake-S Refresh,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-14400E,Embedded,14th,Raptor Lake-S Refresh,10,6,4,16,P-cores only,client/embedded
+Intel Core i5-14400TE,Embedded,14th,Raptor Lake-S Refresh,10,6,4,16,P-cores only,client/embedded
+Intel Core i3-14100,Desktop,14th,Raptor Lake-S Refresh,4,4,0,8,all cores,client/embedded
+Intel Core i3-14100F,Desktop,14th,Raptor Lake-S Refresh,4,4,0,8,all cores,client/embedded
+Intel Core i3-14100T,Desktop,14th,Raptor Lake-S Refresh,4,4,0,8,all cores,client/embedded
+Intel Core i3-14100E,Embedded,14th,Raptor Lake-S Refresh,4,4,0,8,all cores,client/embedded
+Intel Core i3-14100TE,Embedded,14th,Raptor Lake-S Refresh,4,4,0,8,all cores,client/embedded
+Intel Processor 300,Desktop,14th,Raptor Lake-S Refresh,2,2,0,4,all cores,client/embedded
+Intel Processor 300T,Desktop,14th,Raptor Lake-S Refresh,2,2,0,4,all cores,client/embedded
+Intel Core i9-14901KE,Embedded,14th,Raptor Lake-S Refresh (P-only),8,8,0,16,all cores,client/embedded
+Intel Core i9-14901E,Embedded,14th,Raptor Lake-S Refresh (P-only),8,8,0,16,all cores,client/embedded
+Intel Core i9-14901TE,Embedded,14th,Raptor Lake-S Refresh (P-only),8,8,0,16,all cores,client/embedded
+Intel Core i7-14701E,Embedded,14th,Raptor Lake-S Refresh (P-only),8,8,0,16,all cores,client/embedded
+Intel Core i7-14701TE,Embedded,14th,Raptor Lake-S Refresh (P-only),8,8,0,16,all cores,client/embedded
+Intel Core i5-14501E,Embedded,14th,Raptor Lake-S Refresh (P-only),6,6,0,12,all cores,client/embedded
+Intel Core i5-14501TE,Embedded,14th,Raptor Lake-S Refresh (P-only),6,6,0,12,all cores,client/embedded
+Intel Core i5-14401E,Embedded,14th,Raptor Lake-S Refresh (P-only),6,6,0,12,all cores,client/embedded
+Intel Core i5-14401TE,Embedded,14th,Raptor Lake-S Refresh (P-only),6,6,0,12,all cores,client/embedded
+Intel Core i3-14101E,Embedded,14th,Raptor Lake-S Refresh (P-only),4,4,0,8,all cores,client/embedded
+Intel Core i3-14101TE,Embedded,14th,Raptor Lake-S Refresh (P-only),4,4,0,8,all cores,client/embedded
+Intel Core i9-14900HX,Laptop,14th,Raptor Lake-HX Refresh,24,8,16,32,P-cores only,client/embedded
+Intel Core i7-14700HX,Laptop,14th,Raptor Lake-HX Refresh,20,8,12,28,P-cores only,client/embedded
+Intel Core i7-14650HX,Laptop,14th,Raptor Lake-HX Refresh,16,8,8,24,P-cores only,client/embedded
+Intel Core i5-14500HX,Laptop,14th,Raptor Lake-HX Refresh,14,6,8,20,P-cores only,client/embedded
+Intel Core i5-14450HX,Laptop,14th,Raptor Lake-HX Refresh,10,6,4,16,P-cores only,client/embedded
+Intel Xeon E3-1280 v5,Workstation,6th,Skylake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1275 v5,Workstation,6th,Skylake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1270 v5,Workstation,6th,Skylake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1268L v5,Workstation,6th,Skylake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1260L v5,Workstation,6th,Skylake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1245 v5,Workstation,6th,Skylake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1240 v5,Workstation,6th,Skylake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1240L v5,Workstation,6th,Skylake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1230 v5,Workstation,6th,Skylake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1575M v5,Laptop (workstation),6th,Skylake-H,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1545M v5,Laptop (workstation),6th,Skylake-H,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1535M v5,Laptop (workstation),6th,Skylake-H,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1515M v5,Laptop (workstation),6th,Skylake-H,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1505M v5,Laptop (workstation),6th,Skylake-H,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1505L v5,Laptop (workstation),6th,Skylake-H,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1285 v6,Workstation,7th,Kaby Lake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1280 v6,Workstation,7th,Kaby Lake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1275 v6,Workstation,7th,Kaby Lake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1270 v6,Workstation,7th,Kaby Lake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1245 v6,Workstation,7th,Kaby Lake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1240 v6,Workstation,7th,Kaby Lake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1230 v6,Workstation,7th,Kaby Lake,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1535M v6,Laptop (workstation),7th,Kaby Lake-H,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1505M v6,Laptop (workstation),7th,Kaby Lake-H,4,4,0,8,all cores,workstation/server
+Intel Xeon E3-1505L v6,Laptop (workstation),7th,Kaby Lake-H,4,4,0,8,all cores,workstation/server
+Intel Xeon E-2186G,Workstation,8th,Coffee Lake,6,6,0,12,all cores,workstation/server
+Intel Xeon E-2176G,Workstation,8th,Coffee Lake,6,6,0,12,all cores,workstation/server
+Intel Xeon E-2146G,Workstation,8th,Coffee Lake,6,6,0,12,all cores,workstation/server
+Intel Xeon E-2136,Workstation,8th,Coffee Lake,6,6,0,12,all cores,workstation/server
+Intel Xeon E-2176M,Laptop (workstation),8th,Coffee Lake-H,6,6,0,12,all cores,workstation/server
+Intel Xeon E-2186M,Laptop (workstation),8th,Coffee Lake-H,6,6,0,12,all cores,workstation/server
+Intel Xeon E-2174G,Workstation,8th,Coffee Lake,4,4,0,8,all cores,workstation/server
+Intel Xeon E-2144G,Workstation,8th,Coffee Lake,4,4,0,8,all cores,workstation/server
+Intel Xeon E-2134,Workstation,8th,Coffee Lake,4,4,0,8,all cores,workstation/server
+Intel Xeon E-2288G,Workstation,9th,Coffee Lake Refresh,8,8,0,16,all cores,workstation/server
+Intel Xeon E-2278G,Workstation,9th,Coffee Lake Refresh,8,8,0,16,all cores,workstation/server
+Intel Xeon E-2278GE,Workstation,9th,Coffee Lake Refresh,8,8,0,16,all cores,workstation/server
+Intel Xeon E-2286M,Laptop (workstation),9th,Coffee Lake Refresh,8,8,0,16,all cores,workstation/server
+Intel Xeon E-2286G,Workstation,9th,Coffee Lake Refresh,6,6,0,12,all cores,workstation/server
+Intel Xeon E-2276G,Workstation,9th,Coffee Lake Refresh,6,6,0,12,all cores,workstation/server
+Intel Xeon E-2276M,Laptop (workstation),9th,Coffee Lake Refresh,6,6,0,12,all cores,workstation/server
+Intel Xeon E-2276ME,Laptop (workstation),9th,Coffee Lake Refresh,6,6,0,12,all cores,workstation/server
+Intel Xeon E-2246G,Workstation,9th,Coffee Lake Refresh,6,6,0,12,all cores,workstation/server
+Intel Xeon E-2236,Workstation,9th,Coffee Lake Refresh,6,6,0,12,all cores,workstation/server
+Intel Xeon E-2274G,Workstation,9th,Coffee Lake Refresh,4,4,0,8,all cores,workstation/server
+Intel Xeon E-2254ME,Laptop (workstation),9th,Coffee Lake Refresh,4,4,0,8,all cores,workstation/server
+Intel Xeon E-2254ML,Laptop (workstation),9th,Coffee Lake Refresh,4,4,0,8,all cores,workstation/server
+Intel Xeon E-2244G,Workstation,9th,Coffee Lake Refresh,4,4,0,8,all cores,workstation/server
+Intel Xeon E-2234,Workstation,9th,Coffee Lake Refresh,4,4,0,8,all cores,workstation/server
+Intel Xeon W-1290P,Workstation,10th,Comet Lake,10,10,0,20,all cores,workstation/server
+Intel Xeon W-1290,Workstation,10th,Comet Lake,10,10,0,20,all cores,workstation/server
+Intel Xeon W-1290T,Workstation,10th,Comet Lake,10,10,0,20,all cores,workstation/server
+Intel Xeon W-1290E,Workstation,10th,Comet Lake,10,10,0,20,all cores,workstation/server
+Intel Xeon W-1290TE,Workstation,10th,Comet Lake,10,10,0,20,all cores,workstation/server
+Intel Xeon W-1270P,Workstation,10th,Comet Lake,8,8,0,16,all cores,workstation/server
+Intel Xeon W-1270,Workstation,10th,Comet Lake,8,8,0,16,all cores,workstation/server
+Intel Xeon W-1270E,Workstation,10th,Comet Lake,8,8,0,16,all cores,workstation/server
+Intel Xeon W-1270TE,Workstation,10th,Comet Lake,8,8,0,16,all cores,workstation/server
+Intel Xeon W-1250P,Workstation,10th,Comet Lake,6,6,0,12,all cores,workstation/server
+Intel Xeon W-1250,Workstation,10th,Comet Lake,6,6,0,12,all cores,workstation/server
+Intel Xeon W-1250E,Workstation,10th,Comet Lake,6,6,0,12,all cores,workstation/server
+Intel Xeon W-1250TE,Workstation,10th,Comet Lake,6,6,0,12,all cores,workstation/server
+Intel Xeon W-10885M,Laptop (workstation),10th,Comet Lake-H,8,8,0,16,all cores,workstation/server
+Intel Xeon W-10855M,Laptop (workstation),10th,Comet Lake-H,6,6,0,12,all cores,workstation/server
+Intel Xeon W-1390P,Workstation,11th,Rocket Lake,8,8,0,16,all cores,workstation/server
+Intel Xeon W-1390,Workstation,11th,Rocket Lake,8,8,0,16,all cores,workstation/server
+Intel Xeon W-1390T,Workstation,11th,Rocket Lake,8,8,0,16,all cores,workstation/server
+Intel Xeon W-1370P,Workstation,11th,Rocket Lake,8,8,0,16,all cores,workstation/server
+Intel Xeon W-1370,Workstation,11th,Rocket Lake,8,8,0,16,all cores,workstation/server
+Intel Xeon W-1350P,Workstation,11th,Rocket Lake,6,6,0,12,all cores,workstation/server
+Intel Xeon W-1350,Workstation,11th,Rocket Lake,6,6,0,12,all cores,workstation/server
+Intel Xeon W-11955M,Laptop (workstation),11th,Tiger Lake-H,8,8,0,16,all cores,workstation/server
+Intel Xeon W-11865MRE,Laptop (workstation),11th,Tiger Lake-H,8,8,0,16,all cores,workstation/server
+Intel Xeon W-11865MLE,Laptop (workstation),11th,Tiger Lake-H,8,8,0,16,all cores,workstation/server
+Intel Xeon W-11855M,Laptop (workstation),11th,Tiger Lake-H,6,6,0,12,all cores,workstation/server
+Intel Xeon W-11555MRE,Laptop (workstation),11th,Tiger Lake-H,6,6,0,12,all cores,workstation/server
+Intel Xeon W-11555MLE,Laptop (workstation),11th,Tiger Lake-H,6,6,0,12,all cores,workstation/server
+Intel Xeon E-2488,Workstation,13th/14th,Raptor Lake (E-2400),8,8,0,16,all cores,workstation/server
+Intel Xeon E-2478,Workstation,13th/14th,Raptor Lake (E-2400),8,8,0,16,all cores,workstation/server
+Intel Xeon E-2468,Workstation,13th/14th,Raptor Lake (E-2400),8,8,0,16,all cores,workstation/server
+Intel Xeon E-2486,Workstation,13th/14th,Raptor Lake (E-2400),6,6,0,12,all cores,workstation/server
+Intel Xeon E-2456,Workstation,13th/14th,Raptor Lake (E-2400),6,6,0,12,all cores,workstation/server
+Intel Xeon E-2436,Workstation,13th/14th,Raptor Lake (E-2400),6,6,0,12,all cores,workstation/server
+Intel Xeon E-2434,Workstation,13th/14th,Raptor Lake (E-2400),4,4,0,8,all cores,workstation/server
+Intel Core 7 processor 150U,Laptop,Core Series 1,Raptor Lake-U Refresh,10,2,8,12,P-cores only,workstation/server
+Intel Core 5 processor 120U,Laptop,Core Series 1,Raptor Lake-U Refresh,10,2,8,12,P-cores only,workstation/server
+Intel Core 3 processor 100U,Laptop,Core Series 1,Raptor Lake-U Refresh,6,2,4,8,P-cores only,workstation/server
