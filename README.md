@@ -87,4 +87,17 @@ cd ../training
 # run the relevant experiment scripts
 ```
 
-Note that This repository is meant as a research codebase rather than a production package.
+Note that this repository is meant as a research codebase rather than a production package.
+
+
+### Citation
+
+```
+@article{weiss2026detokenization,
+  title={Detokenization Leaks: Reconstructing Local LLM Outputs From Cache Traces},
+  author={Weiss, Roy and Konstantinov, Benyamin and Sheetrit, Eitam and Simon, Tomer and Mirsky, Yisroel},
+  journal={arXiv preprint arXiv:2609.06674},
+  year={2026}
+}
+```
+
